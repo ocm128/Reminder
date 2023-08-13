@@ -23,9 +23,8 @@ import javax.swing.border.Border;
 
 
 /**
- *   @author Kalasni
+ *   @author ocm128
  *   @version 1.0
- *    kalassni@gmail.com 
  */
 
 public class Reminder
